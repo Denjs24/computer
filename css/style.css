@@ -650,6 +650,7 @@ textarea.input {
 
 .header {
   height: 100vh;
+  max-height: 1080px
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
