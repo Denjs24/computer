@@ -649,8 +649,7 @@ textarea.input {
   background: url(../img/header-bg.jpg) center bottom/cover no-repeat; }
 
 .header {
-  height: 100vh;
-  max-height: 1080px
+  height: 1080px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
